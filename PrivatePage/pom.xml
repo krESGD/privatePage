@@ -11,7 +11,7 @@
 	<groupId>com.KSW</groupId>
 	<artifactId>PrivatePage</artifactId>
 	<version>1.0</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>PrivatePage</name>
 	<description>KSW Private Page</description>
 
